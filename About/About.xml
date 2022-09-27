@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>RimTraits Patch for A RimWorld Of Magic</name>
+	<author>TheAtomicOption</author>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+		<li>1.2</li>
+		<li>1.3</li>
+	</supportedVersions>
+	<packageId>TheAtomicOption.RTAROM</packageId>
+	<modDependenciesByVersion>
+		<v1.3>
+    	  <li>
+			<packageId>Torann.ARimworldOfMagic</packageId>
+			<displayName>A Rimworld Of Magic</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=1201382956</steamWorkshopUrl>
+			<downloadUrl>https://ludeon.com/forums/index.php?topic=37161.0</downloadUrl>
+		  </li>
+		</v1.3>
+    </modDependenciesByVersion>
+	<loadAfter>
+		<li>brrainz.harmony</li>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>UnlimitedHugs.HugsLib</li>
+		<li>jecrell.jecstools</li>
+		<li>Torann.ARimworldOfMagic</li>
+		<li>Kure.AROM</li>
+		<li>Sierra.RT.GeneralTraits</li>
+		<li>Sierra.RT.VanillaTraitColors</li>
+	</loadAfter>
+	<description>Version 1.0
+
+RimTraits colors for A Rimworld Of Magic class traits including Kure's Rimworld of Magic classes
+	</description>
+</ModMetaData>

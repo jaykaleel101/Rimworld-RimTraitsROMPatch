@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_ArcaneConduitTD"]/degreeDatas/li[label="Arcane Conduit"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Arcane Conduit&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_ManaWellTD"]/degreeDatas/li[label="Mana Well"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Mana Well&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_BoundlessTD"]/degreeDatas/li[label="Boundless"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Boundless&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_FaeBloodTD"]/degreeDatas/li[label="Fae blood"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Fae blood&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_GiantsBloodTD"]/degreeDatas/li[label="Giants blood"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Giants blood&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_EnlightenedTD"]/degreeDatas/li[label="Enlightened"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Enlightened&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_CursedTD"]/degreeDatas/li[label="Cursed"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Cursed&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_OKWithDeath"]/degreeDatas/li[label="Unaffected by death"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Unaffected by death&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="Undead"]/degreeDatas/li[label="Undead"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Undead&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Gifted"]/degreeDatas/li[label="magically gifted"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;magically gifted&lt;/color&gt;</label>
+    </value>
+  </Operation>
+    
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Empath"]/degreeDatas/li[label="Empath"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Empath&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Wanderer"]/degreeDatas/li[label="Wanderer"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Wanderer&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="InnerFire"]/degreeDatas/li[label="Fire mage"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Fire mage&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="HeartOfFrost"]/degreeDatas/li[label="Ice mage"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Ice mage&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="StormBorn"]/degreeDatas/li[label="Lightning mage"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Lightning mage&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="Arcanist"]/degreeDatas/li[label="Arcane mage"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Arcane mage&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="Druid"]/degreeDatas/li[label="Druid"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Druid&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="Paladin"]/degreeDatas/li[label="Paladin"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Paladin&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="Summoner"]/degreeDatas/li[label="Summoner"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Summoner&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="Necromancer"]/degreeDatas/li[label="Necromancer"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Necromancer&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="Lich"]/degreeDatas/li[label="Lich"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Lich&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="Priest"]/degreeDatas/li[label="Priest"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Priest&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Bard"]/degreeDatas/li[label="Entertainer"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Entertainer&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Bard"]/degreeDatas/li[label="Performer"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Performer&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Bard"]/degreeDatas/li[label="Minstrel"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Minstrel&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Bard"]/degreeDatas/li[label="Bard"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Bard&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="Succubus"]/degreeDatas/li[label="Succubus"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Succubus&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="Warlock"]/degreeDatas/li[label="Warlock"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Warlock&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="Geomancer"]/degreeDatas/li[label="Geomancer"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Geomancer&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="Technomancer"]/degreeDatas/li[label="Technomancer"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Technomancer&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="BloodMage"]/degreeDatas/li[label="Blood Mage"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Blood mage&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="Enchanter"]/degreeDatas/li[label="Enchanter"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Enchanter&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="Chronomancer"]/degreeDatas/li[label="Chronomancer"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Chronomancer&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="ChaosMage"]/degreeDatas/li[label="Chaos Mage"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Chaos mage&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_TheShadow"]/degreeDatas/li[label="Shadow"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Shadow&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Brightmage"]/degreeDatas/li[label="Brightmage"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Brightmage&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Shaman"]/degreeDatas/li[label="Shaman"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Shaman&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Golemancer"]/degreeDatas/li[label="Golemancer"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Golemancer&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Possessed"]/degreeDatas/li[label="Possessed"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Possessed&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Possessor"]/degreeDatas/li[label="Spirit"]/label</xpath>
+    <value>
+      <label>&lt;color=#FFCE44FF&gt;Spirit&lt;/color&gt;</label>
+    </value>
+  </Operation>
+</Patch>

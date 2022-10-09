@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Bombardier"]/degreeDatas/li[label="Bombardier"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Bombardier&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Railbreaker"]/degreeDatas/li[label="Railbreaker"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Railbreaker&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Samurai"]/degreeDatas/li[label="Samurai"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Samurai&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Gadgeteer"]/degreeDatas/li[label="Gadgeteer"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Gadgeteer&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Medic"]/degreeDatas/li[label="Medic"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Medic&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Berserker"]/degreeDatas/li[label="Berserker"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Berserker&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Scion"]/degreeDatas/li[label="Scion"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Scion&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Plaguedoctor"]/degreeDatas/li[label="Plaguedoctor"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Plaguedoctor&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Chainwarden"]/degreeDatas/li[label="Chainwarden"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Chainwarden&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Ambusher"]/degreeDatas/li[label="Ambusher"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Ambusher&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Saboteur"]/degreeDatas/li[label="Saboteur"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Saboteur&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Aspirant"]/degreeDatas/li[label="Aspirant"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Aspirant&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Hawkeye"]/degreeDatas/li[label="Hawkeye"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Hawkeye&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_SupportSpecialist"]/degreeDatas/li[label="Support Specialist"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Support Specialist&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Scrapper"]/degreeDatas/li[label="Scrapper"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Scrapper&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Mystic"]/degreeDatas/li[label="Mystic"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Mystic&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Spellbreaker"]/degreeDatas/li[label="Spellbreaker"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Spellbreaker&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Thunderblessed"]/degreeDatas/li[label="Thunderblessed"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Thunderblessed&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Dragoon"]/degreeDatas/li[label="Dragoon"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Dragoon&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Gunbreaker"]/degreeDatas/li[label="Gunbreaker"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Gunbreaker&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Gunner"]/degreeDatas/li[label="Gunner"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Gunner&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Warrior"]/degreeDatas/li[label="Warrior"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Warrior&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Nomad"]/degreeDatas/li[label="Nomad"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Nomad&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Holosmith"]/degreeDatas/li[label="Holosmith"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Holosmith&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Chef"]/degreeDatas/li[label="Chef"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Chef&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Miner"]/degreeDatas/li[label="Miner"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Miner&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Striker"]/degreeDatas/li[label="Striker"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Striker&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_BlossomBlader"]/degreeDatas/li[label="Blossom Blader"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Blossom Blader&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_MechHunter"]/degreeDatas/li[label="Mech Hunter"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Mech Hunter&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Gunslinger"]/degreeDatas/li[label="Gunslinger"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Gunslinger&lt;/color&gt;</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TM_Chempunk"]/degreeDatas/li[label="Chempunk"]/label</xpath>
+    <value>
+      <label>&lt;color=#6AFB92&gt;Chempunk&lt;/color&gt;</label>
+    </value>
+  </Operation>
+</Patch>
